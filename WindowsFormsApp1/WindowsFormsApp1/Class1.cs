@@ -9,5 +9,4 @@ namespace WindowsFormsApp1
     class Class1
     {
     }
-    hello mình la Linh nè
 }
